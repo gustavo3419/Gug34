@@ -1,5 +1,5 @@
 {
-    "Version": "3",
+    "Version": "4",
     "ReleaseNotes": "Nova Atualização Disponível.",
     "UrlUpdate": "https://raw.githubusercontent.com/gustavo3419/Gug34/refs/heads/main/config.json",
     "Sms": "",
@@ -21,7 +21,7 @@
     }],
     "Networks": [{
             "Name": "🟣vivo top🟣",
-            "FLAG": "vivo",
+            "FLAG": "easy",
             "Payload": "ACL / HTTP/1.1[crlf]Host: gustavo55.online[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
