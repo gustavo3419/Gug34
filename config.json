@@ -1,5 +1,5 @@
 {
-    "Version": "14",
+    "Version": "2",
     "ReleaseNotes": "Nova Atualização Disponível.",
     "UrlUpdate": "https://raw.githubusercontent.com/gustavo3419/Gug34/refs/heads/main/config.json",
     "Sms": "",
@@ -30,7 +30,7 @@
             "Info": "Proxy"
         },
         {
-            "Name": "🟣📶VIVO 2🟣👨🏻‍💻",
+            "Name": "🟣📶VIVO🟣👨🏻‍💻",
             "FLAG": "vivo",
             "Payload": "ACL /cdn-cgi/trace HTTP/1.1[crlf][host_port][split][crlf]Host: Dashboards.lpu.in.Fikfap.com[crlf][lf][split][lf]PATCH / HTTP/1.1[lf]Host: gustavo55.online [lf]Upgrade: websocket[lf]Connection: Upgrade[lf]User-Agent: Googlebot/2.1 (+http://www.googlecom/bot.html)[crlf]Referer: http://www.google.com[lf][lf]",
             "SNI": "",
@@ -40,7 +40,7 @@
             "Info": "Proxy"
         },
         {
-  "Name": "🟣CROUD VIVO [01]🟣",
+  "Name": "🟣VIVO 1🟣",
         "FLAG": "vivo",
         "Payload": "GET / HTTP/1.1[crlf]Host: gustavo55.online[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
         "SNI": "",
@@ -49,7 +49,7 @@
         "ProxyPort": "80",
         "Info": "Proxy"
     },{
-      "Name": "🟣CROUD VIVO [02]🟣",
+      "Name": "🟣VIVO 2]🟣",
         "FLAG": "vivo",
         "Payload": "GET / HTTP/1.1[crlf]Host: gustavo55.online[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
         "SNI": "",
@@ -58,22 +58,22 @@
         "ProxyPort": "80",
         "Info": "Proxy"
     },{
-      "Name": "🟣CROUD VIVO [03]🟣",
+      "Name": "🟣VIVO 3🟣",
         "FLAG": "vivo",
         "Payload": "GET / HTTP/1.1[crlf]Host: gustavo55.online[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
-        "ProxyIP": "cdnssl.clicktale.net",
+        "ProxyIP": "104.18.6.80#104.18.7.80#162.159.138.6#162.159.128.7;104.17.70.206#104.17.71.206#104.17.72.206#104.17.73.206#104.17.74.206#172.64.144.109#104.18.43.147#104.18.7.41#104.18.6.41#104.18.7.41#104.18.6.80#104.18.7.80#172.64.144.109#104.18.43.147#162.159.128.7#162.159.138.6#104.17.71.20",
         "ProxyPort": "80",
         "Info": "Proxy"
     },
 {
-      "Name": "🟣CROUD VIVO [04]🟣",
+      "Name": "🟣VIVO 4🟣",
         "FLAG": "vivo",
-        "Payload": "GET // HTTP/1.1[crlf]Host:gustavo55.online[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+        "Payload": "ACL / HTTP/1.1[crlf]Host: gustavo55.online[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
-        "ProxyIP": "tinder.onelink.me",
+        "ProxyIP": "162.159.140.159#172.66.0.157#172.67.74.152#104.26.12.205#188.114.99.229#172.64.150.8#104.18.37.248",
         "ProxyPort": "80",
         "Info": "Proxy"
       },
