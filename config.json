@@ -1,5 +1,5 @@
 {
-    "Version": "4",
+    "Version": "5",
     "ReleaseNotes": "Nova Atualização Disponível.",
     "UrlUpdate": "https://raw.githubusercontent.com/gustavo3419/Gug34/refs/heads/main/config.json",
     "Sms": "",
@@ -35,7 +35,7 @@
             "Payload": "ACL /cdn-cgi/trace HTTP/1.1[crlf][host_port][split][crlf]Host: Dashboards.lpu.in.Fikfap.com[crlf][lf][split][lf]PATCH / HTTP/1.1[lf]Host: gustavo55.online [lf]Upgrade: websocket[lf]Connection: Upgrade[lf]User-Agent: Googlebot/2.1 (+http://www.googlecom/bot.html)[crlf]Referer: http://www.google.com[lf][lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "114.18.6.80#114.18.27.160#104.26.12.205",
+            "ProxyIP": "104.18.6.80#104.18.27.160#104.26.12.205",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
