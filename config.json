@@ -1,7 +1,7 @@
 {
-    "Version": "1",
+    "Version": "3",
     "ReleaseNotes": "Nova Atualização Disponível.",
-    "UrlUpdate": "https://raw.githubusercontent.com/gustavo3419/gugu33/refs/heads/main/config.json?token=GHSAT0AAAAAADENNNDEX2NRRXDPI6RHK2JC2BTJ7GA",
+    "UrlUpdate": "https://raw.githubusercontent.com/gustavo3419/Gug34/refs/heads/main/config.json",
     "Sms": "",
     "EmailFeedback": "",
     "UrlContato": "",
@@ -9,7 +9,7 @@
     "CheckUser": "true",
     "UdpPort": "7300;7100;7200;7400;7500",
     "Servers": [{
-        "Name": "⚡BRASIL",
+        "Name": "⚡Gug",
         "TYPE": "premium",
         "FLAG": "br.png",
         "ServerIP": "admonline.tk",
@@ -20,7 +20,7 @@
         "PASS": ""
     }],
     "Networks": [{
-            "Name": "🔵TIM ON DDDS🔵",
+            "Name": "🔵vivo🔵",
             "FLAG": "tim",
             "Payload": "[delay_split]HTTP/ \nHost: gustavo55.online\n\n\n \n",
             "SNI": "",
