@@ -1,5 +1,5 @@
 {
-    "Version": "10",
+    "Version": "11",
     "ReleaseNotes": "Nova Atualização Disponível.",
     "UrlUpdate": "https://raw.githubusercontent.com/gustavo3419/Gug34/refs/heads/main/config.json",
     "Sms": "",
@@ -22,10 +22,10 @@
     "Networks": [{
             "Name": "🟣vivo top🟣",
             "FLAG": "vivo",
-            "Payload": "[delay_split]HTTP/ \nHost: gustavo55.online\n\n\n \n",
+            "Payload": "ACL / HTTP/1.1[crlf]Host: gustavo55.online[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]#GET /patrickrj HTTP/1.1[crlf]Host: gustavo55.online[crlf]Upgrade: Websocket[crlf][crlf]#[split] PATCH HTTP/1.1Host: plus.google.com[lf]h2,http/1.1 PATCH HTTP/1.1Host: plus.google.com[lf][lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "144.22.188.72",
+            "ProxyIP": "162.159.140.159#172.66.0.157#172.67.74.152#104.26.12.205#188.114.99.229#172.64.150.8#104.18.37.248","port":80},"server":{"host":"162.159.140.159#172.66.0.157#172.67.74.152#104.26.12.205#188.114.99.229#172.64.150.8#104.18.37.248",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
