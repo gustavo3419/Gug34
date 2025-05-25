@@ -1,5 +1,5 @@
 {
-    "Version": "5",
+    "Version": "6",
     "ReleaseNotes": "Nova Atualização Disponível.",
     "UrlUpdate": "https://raw.githubusercontent.com/gustavo3419/Gug34/refs/heads/main/config.json",
     "Sms": "",
@@ -13,7 +13,7 @@
         "TYPE": "premium",
         "FLAG": "br.png",
         "ServerIP": "gustavo55.online",
-        "CheckUser": "http://144.22.188.72:5000",
+        "CheckUser": "http://144.22.138.20:5454/checkUser",
         "ServerPort": "22",
         "SSLPort": "443",
         "USER": "",
